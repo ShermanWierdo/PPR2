@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "övning31", "övning31\övning31.csproj", "{632BAAB2-9FDF-4F3C-80A7-C5E11CD58B99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{632BAAB2-9FDF-4F3C-80A7-C5E11CD58B99}.Debug|x86.ActiveCfg = Debug|x86
+		{632BAAB2-9FDF-4F3C-80A7-C5E11CD58B99}.Debug|x86.Build.0 = Debug|x86
+		{632BAAB2-9FDF-4F3C-80A7-C5E11CD58B99}.Release|x86.ActiveCfg = Release|x86
+		{632BAAB2-9FDF-4F3C-80A7-C5E11CD58B99}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

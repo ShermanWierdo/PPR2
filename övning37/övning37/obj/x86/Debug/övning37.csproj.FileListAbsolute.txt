@@ -1,0 +1,11 @@
+C:\Users\ealean\AppData\Local\Temporary Projects\övning37\obj\x86\Debug\övning37.Form1.resources
+C:\Users\ealean\AppData\Local\Temporary Projects\övning37\obj\x86\Debug\övning37.Properties.Resources.resources
+C:\Users\ealean\AppData\Local\Temporary Projects\övning37\obj\x86\Debug\övning37.csproj.GenerateResource.Cache
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning37\övning37\bin\Debug\övning37.exe
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning37\övning37\bin\Debug\övning37.pdb
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning37\övning37\obj\x86\Debug\övning37.csprojResolveAssemblyReference.cache
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning37\övning37\obj\x86\Debug\övning37.Properties.Resources.resources
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning37\övning37\obj\x86\Debug\övning37.Form1.resources
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning37\övning37\obj\x86\Debug\övning37.csproj.GenerateResource.Cache
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning37\övning37\obj\x86\Debug\övning37.exe
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning37\övning37\obj\x86\Debug\övning37.pdb

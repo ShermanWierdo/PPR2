@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "övning25kap2", "övning25kap2\övning25kap2.csproj", "{0CD16CDA-0A92-442D-A120-C8BD55EDEF2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CD16CDA-0A92-442D-A120-C8BD55EDEF2B}.Debug|x86.ActiveCfg = Debug|x86
+		{0CD16CDA-0A92-442D-A120-C8BD55EDEF2B}.Debug|x86.Build.0 = Debug|x86
+		{0CD16CDA-0A92-442D-A120-C8BD55EDEF2B}.Release|x86.ActiveCfg = Release|x86
+		{0CD16CDA-0A92-442D-A120-C8BD55EDEF2B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

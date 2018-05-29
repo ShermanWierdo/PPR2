@@ -1,0 +1,7 @@
+C:\Users\ealean\AppData\Local\Temporary Projects\övning22\obj\x86\Debug\övning22.Form1.resources
+C:\Users\ealean\AppData\Local\Temporary Projects\övning22\obj\x86\Debug\övning22.Properties.Resources.resources
+C:\Users\ealean\AppData\Local\Temporary Projects\övning22\obj\x86\Debug\övning22.csproj.GenerateResource.Cache
+C:\Users\ealean\AppData\Local\Temporary Projects\övning22\bin\Debug\övning22.exe
+C:\Users\ealean\AppData\Local\Temporary Projects\övning22\bin\Debug\övning22.pdb
+C:\Users\ealean\AppData\Local\Temporary Projects\övning22\obj\x86\Debug\övning22.exe
+C:\Users\ealean\AppData\Local\Temporary Projects\övning22\obj\x86\Debug\övning22.pdb

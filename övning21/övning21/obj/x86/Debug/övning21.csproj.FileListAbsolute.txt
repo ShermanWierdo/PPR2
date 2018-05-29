@@ -1,0 +1,8 @@
+C:\Users\ealean\AppData\Local\Temporary Projects\övning21\bin\Debug\övning21.exe
+C:\Users\ealean\AppData\Local\Temporary Projects\övning21\bin\Debug\övning21.pdb
+C:\Users\ealean\AppData\Local\Temporary Projects\övning21\obj\x86\Debug\övning21.exe
+C:\Users\ealean\AppData\Local\Temporary Projects\övning21\obj\x86\Debug\övning21.pdb
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning21\övning21\obj\x86\Debug\övning21.exe
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning21\övning21\obj\x86\Debug\övning21.pdb
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning21\övning21\bin\Debug\övning21.exe
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning21\övning21\bin\Debug\övning21.pdb

@@ -1,0 +1,5 @@
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning25kap2\övning25kap2\obj\x86\Debug\övning25kap2.csprojResolveAssemblyReference.cache
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning25kap2\övning25kap2\bin\Debug\övning25kap2.exe
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning25kap2\övning25kap2\bin\Debug\övning25kap2.pdb
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning25kap2\övning25kap2\obj\x86\Debug\övning25kap2.exe
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning25kap2\övning25kap2\obj\x86\Debug\övning25kap2.pdb

@@ -1,0 +1,9 @@
+C:\Users\ealean\AppData\Local\Temporary Projects\övning31\obj\x86\Debug\övning31.Form1.resources
+C:\Users\ealean\AppData\Local\Temporary Projects\övning31\obj\x86\Debug\övning31.Properties.Resources.resources
+C:\Users\ealean\AppData\Local\Temporary Projects\övning31\obj\x86\Debug\övning31.csproj.GenerateResource.Cache
+C:\Users\ealean\AppData\Local\Temporary Projects\övning31\bin\Debug\övning31.exe
+C:\Users\ealean\AppData\Local\Temporary Projects\övning31\bin\Debug\övning31.pdb
+C:\Users\ealean\AppData\Local\Temporary Projects\övning31\obj\x86\Debug\övning31.exe
+C:\Users\ealean\AppData\Local\Temporary Projects\övning31\obj\x86\Debug\övning31.pdb
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning31\övning31\obj\x86\Debug\övning31.exe
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning31\övning31\obj\x86\Debug\övning31.pdb

@@ -1,0 +1,9 @@
+C:\Users\ealean\AppData\Local\Temporary Projects\övning36\bin\Debug\övning36.exe
+C:\Users\ealean\AppData\Local\Temporary Projects\övning36\bin\Debug\övning36.pdb
+C:\Users\ealean\AppData\Local\Temporary Projects\övning36\obj\x86\Debug\övning36.Form1.resources
+C:\Users\ealean\AppData\Local\Temporary Projects\övning36\obj\x86\Debug\övning36.Properties.Resources.resources
+C:\Users\ealean\AppData\Local\Temporary Projects\övning36\obj\x86\Debug\övning36.csproj.GenerateResource.Cache
+C:\Users\ealean\AppData\Local\Temporary Projects\övning36\obj\x86\Debug\övning36.exe
+C:\Users\ealean\AppData\Local\Temporary Projects\övning36\obj\x86\Debug\övning36.pdb
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning36\övning36\obj\x86\Debug\övning36.exe
+S:\GyV\PRRPRR02\ELEVMAPPAR\Alexander\övning36\övning36\obj\x86\Debug\övning36.pdb
